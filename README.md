@@ -44,3 +44,6 @@ Power BI Desktop, DAX, Power Query
 
 ## Author
 Bibha Patel | [www.linkedin.com/in/bibha-p-7603641b8)
+
+<img width="720" height="400" alt="image" src="https://github.com/user-attachments/assets/8e30d8d9-dbc2-4653-8f7d-c01abf5fb56b" />
+
