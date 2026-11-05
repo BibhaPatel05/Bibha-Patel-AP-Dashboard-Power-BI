@@ -17,10 +17,6 @@ A 4-page interactive Power BI dashboard that tracks invoices, payments, vendor r
 | AP Aging | Outstanding amount by aging bucket and overdue counts |
 | Payment Analysis | Payments by method, month and vendor |
 
-![Overview](screenshots/1_overview.png)
-![Vendor Analysis](screenshots/2_vendor_analysis.png)
-![AP Aging](screenshots/3_ap_aging.png)
-![Payment Analysis](screenshots/4_payment_analysis.png)
 
 ## Data model
 Star schema: `Fact_Invoice` and `Fact_Payment` (facts), `Dim_Vendor` and `Dim_Date` (dimensions).
